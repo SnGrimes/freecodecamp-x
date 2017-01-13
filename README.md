@@ -4,7 +4,7 @@ This project is in preperation to move freecodecampdallas.com to a server that f
 ## Installation
 [NodeJS](https://nodejs.org) & [Git](https://git-scm.com/)
 ~~~~
-git clone https://github.com/freecodecampdallas/freecodecamp-x.git
+git clone https://github.com/joshcode16/freecodecamp-x.git
 cd freecodecampdallas-x
 npm install
 npm start
